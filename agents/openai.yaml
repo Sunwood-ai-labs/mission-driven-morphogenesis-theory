@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mission-Driven Morphogenesis Theory"
+  short_description: "Design artifact form from mission, readability, constraints"
+  default_prompt: "Use $mission-driven-morphogenesis-theory to design, critique, or refine an artifact by deriving its form from mission, origin, environment, operation, history, readability, and production constraints."
